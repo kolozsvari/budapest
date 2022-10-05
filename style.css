@@ -1,0 +1,39 @@
+#main{
+    width: 1000px;
+    margin: auto;
+    background-color: darkgray;
+    padding: 20px;
+}
+
+.kozepre{
+    text-align: center;
+}
+
+h1{
+    color: black;
+
+}
+
+body{
+    color:black;
+    background-color: grey;
+    font-family:italic;
+    font-size: 22px;
+}
+.balra{
+    float:left;
+    margin-right: 10px;
+}
+.jobbra{
+    float: right;
+    margin-left: 10px;
+}
+
+p,ul{
+    text-align: justify;
+
+}
+
+ul{
+    font-size: 90%;
+}
